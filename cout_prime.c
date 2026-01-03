@@ -6,9 +6,9 @@ int main() {
     while(p--)
     {
         int n,m;
-    scanf("%d %d",&n,&m);
-    int countP=0;
-    for(int i=n;i<=m;i++)
+        scanf("%d %d",&n,&m);
+        int countP=0;
+        for(int i=n;i<=m;i++)
     {
        
         int isPrime=1;
